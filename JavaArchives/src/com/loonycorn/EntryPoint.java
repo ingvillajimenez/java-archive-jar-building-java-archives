@@ -23,3 +23,6 @@ public class EntryPoint {
 
 // Building a JAR file:
 // https://docs.oracle.com/javase/tutorial/deployment/jar/build.html
+
+// Setting the JAR entry point:
+// https://docs.oracle.com/javase/tutorial/deployment/jar/appman.html
