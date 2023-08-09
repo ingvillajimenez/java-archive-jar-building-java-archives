@@ -1,5 +1,6 @@
 package com.loonycorn;
 
+import com.loonycustomer.Customer; // class Customer
 import org.apache.logging.log4j.Logger; // interface Logger
 import org.apache.logging.log4j.LogManager; // class LogManager
 
@@ -30,6 +31,11 @@ public class EntryPoint {
         Employee admin = new Employee("admin", 0, "admin");
 
         System.out.println("New admin user created from EntryPoint");
+
+        Customer cust = new Customer("defaultcust", 0);
+
+        System.out.println("New customer created from EntryPoint with status "
+                + cust.getMemberStatus());
 
     }
 }
