@@ -1,2 +1,7 @@
 Main-Class: com.loonycorn.EntryPoint
+Specification-Version: 1.0
+Specification-Vendor: Loonycorn
+Implementation-Title: My Application
+Implementation-Version: build01
+Implementation-Vendor: Loonycorn
 

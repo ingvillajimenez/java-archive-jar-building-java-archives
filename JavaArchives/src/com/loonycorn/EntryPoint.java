@@ -26,3 +26,6 @@ public class EntryPoint {
 
 // Setting the JAR entry point:
 // https://docs.oracle.com/javase/tutorial/deployment/jar/appman.html
+
+// Specification version
+// https://docs.oracle.com/en/java/javase/15/docs/api/java.base/java/lang/Package.html#getSpecificationVersion()
