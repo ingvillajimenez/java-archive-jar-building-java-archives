@@ -27,6 +27,10 @@ public class EntryPoint {
 
         ep.printMode();
 
+        Employee admin = new Employee("admin", 0, "admin");
+
+        System.out.println("New admin user created from EntryPoint");
+
     }
 }
 
