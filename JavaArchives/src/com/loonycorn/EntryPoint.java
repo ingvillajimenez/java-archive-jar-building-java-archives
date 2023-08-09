@@ -29,3 +29,5 @@ public class EntryPoint {
 
 // Specification version
 // https://docs.oracle.com/en/java/javase/15/docs/api/java.base/java/lang/Package.html#getSpecificationVersion()
+
+// https://logging.apache.org/log4j/2.x/download.html
