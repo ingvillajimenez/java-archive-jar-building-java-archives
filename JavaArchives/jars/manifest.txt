@@ -4,4 +4,5 @@ Specification-Vendor: Loonycorn
 Implementation-Title: My Application
 Implementation-Version: build01
 Implementation-Vendor: Loonycorn
+Class-Path: lib/log4j-api-2.20.0.jar lib/log4j-core-2.20.0.jar
 
